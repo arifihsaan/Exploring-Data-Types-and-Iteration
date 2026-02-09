@@ -23,8 +23,7 @@ transformation rather than model building.
 
 ## Dataset
 - **Name:** Titanic Dataset  
-- **Description:** Contains demographic and travel information of Titanic passengers  
-- **Target Variable:** `Survived`
+- **Description:** Contains demographic and travel information of Titanic passengers 
 
 ---
 
@@ -58,10 +57,8 @@ These transformations support feature engineering and preprocessing.
 ---
 
 ## Tools & Libraries
-- Python
-- Pandas
-- Jupyter Notebook
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,streamlit,github,vscode" />
+</p>
 
 ---
-
-## Project Structure
