@@ -58,6 +58,6 @@ These transformations support feature engineering and preprocessing.
 
 ## Tools & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,py,windows,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,py,windows)](https://skillicons.dev)
 
 ---
